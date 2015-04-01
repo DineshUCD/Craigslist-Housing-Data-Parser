@@ -1,0 +1,46 @@
+1. The house number is from one to five numeric digits. 
+[:space:]
+2. Pre-direction
+Direction Abbv. Direction Abbv.
+North N.? Northeast NE
+South S. Northwest NW
+East E. Southeast SE
+West W. Southwest SW 
+[:space:]
+3. Street NAme
+Numeric street names, should be written using numeric
+characters and with the appropriate endings, for example, 7th, 72nd, etc..
+[:space:]
+4 . Street Type
+Court 
+Drive
+Highway
+Street
+Avenue
+Boulevard
+North
+West
+South
+East
+Mount
+Mountain
+Cul-De-Sac
+Freeway
+Circle
+Way -> Way -> [Ww]y
+5. Post Directional
+13700 Kendale Lakes Cr (E)
+[:Space:]
+6. Unit Designators 
+ Unit designators, s ch as APARTMENT or SUITE
+should not be included in the address field of a database. The
+unit designation should conform to
+the standard abbreviations listed in
+Appendix C
+[:Space:]
+7. City Name
+8. Stat Name
+9. Zip Code
+10. Country
+
+P.S. => ____ at _____
