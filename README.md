@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 **Questions answered in the README:** 
  How is this different from other Craigslist scrapers?
  What is the motivation of this software?
