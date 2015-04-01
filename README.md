@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **Questions answered in the README:** 
  How is this different from other Craigslist scrapers?
  What is the motivation of this software?
@@ -128,3 +129,7 @@ The housing data such as rent, square feet, garage, laundry, parking, and cities
 ### Who do I talk to? ###
 
 * Repo owner or admin
+=======
+# Craigslist-Housing-Data-Parser
+This R program parses raw housing data from craigslist for further analysis.
+>>>>>>> 6c6522cd16abfaa10583bc3fde1448bd553dc306
